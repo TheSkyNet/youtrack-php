@@ -1,6 +1,6 @@
 {
   "name": "TheSkyNet/youtrack-php",
-  "description": "description_text",
+  "description": "YouTrack Client PHP Library",
   "minimum-stability": "stable",
   "license": "BSD License",
   "authors": [
