@@ -1,7 +1,7 @@
 # YouTrack Client PHP Library
 
 
-Basically this is a port of the  fork of `jan0sch/YouTrack-Client-PHP-Library` php api from Jetbrains.
+Basically this is a port of the fork of `jan0sch/YouTrack-Client-PHP-Library` php api from Jetbrains.
 
 The source of this library is released under the BSD license (see LICENSE for details).
 
